@@ -43,7 +43,5 @@ def play(board)
   end
 end
 
-board.each do |elementet|
-  puts "#{elementet} i "
-end
+
 # Define your play method below
